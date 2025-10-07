@@ -162,4 +162,6 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I am a postdoctoral researcher at University of Amsterdam working with prof. Maarten de Rijke and with dr. Roel Dobbe  at TU Delft. I am interested in understanding human trust & reliance in public-sector AI systems. My research looks at AI systems as sociotecnical in nature which helps me in designing safer AI systems inspired from aeronautical engineering. 
+
+Prior to my current role, I spent a year as a postdoctoral researcher at AI & Digital Governance lab at VU Amsterdam. I completed my PhD from the Interactive Intelligence group of Delft University of Technology (TU Delft),  the Netherlands, working with my advisor Dr. Myrthe Tielman and promotor Prof. Catholijn Jonker. I have also worked for industry such as at Siemens Research, Mazda, Grohe and as a member of app review board for Microsoft (Student Partner).
